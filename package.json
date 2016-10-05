@@ -8,8 +8,8 @@
   },
   "main": "lib/index.js",
   "engines": {
-    "node": ">=5.0.0 <6",
-    "npm": ">=3.3 <4"
+    "node": ">=4.4.6 <6",
+    "npm": ">=2.15.5 <4"
   },
   "scripts": {
     "test": "mocha test/* --reporter dot --compilers js:babel-register --require ./test/helper.js --recursive",
