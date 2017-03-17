@@ -8,7 +8,7 @@
   },
   "main": "lib/index.js",
   "engines": {
-    "node": ">=4.4.6 <6",
+    "node": ">=4.4.6 <7",
     "npm": ">=2.15.5 <4"
   },
   "scripts": {
